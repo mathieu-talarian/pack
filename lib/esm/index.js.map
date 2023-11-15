@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/index.ts"],"sourcesContent":["export function log(message: string) {\n  console.log(message);\n}\n"],"names":["log","message","console"],"mappings":"AAAA,OAAO,SAASA,IAAIC,OAAe;IACjCC,QAAQF,GAAG,CAACC;AACd"}

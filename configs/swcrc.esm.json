@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/swcrc",
+  "jsc": {
+    "parser": {
+      "syntax": "typescript"
+    },
+    "externalHelpers": true
+  },
+  "env": {
+    "targets": {
+      "node": "16"
+    },
+    "mode": "usage",
+    "coreJs": "3.22"
+  },
+  "sourceMaps": true,
+  "module": {
+    "type": "es6"
+  },
+  "exclude": [".*\\.test.ts$"]
+}
